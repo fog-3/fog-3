@@ -1,4 +1,4 @@
-[![fosuna-g's 42 stats](https://badge.mediaplus.ma/darkblue/fosuna-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42){ width="800" height="600" style="display: block; margin: 0 auto" }
+[![fosuna-g's 42 stats](https://badge.mediaplus.ma/darkblue/fosuna-g?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 <!--
