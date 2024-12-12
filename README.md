@@ -4,6 +4,11 @@
         <img src="https://badge.mediaplus.ma/darkblue/fosuna-g?1337Badge=off&UM6P=off" alt="fosuna-g's 42 stats">
     </a>
 </p>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Status en desarrollo">
+</p>
+
 <!--
 **fog-3/fog-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
