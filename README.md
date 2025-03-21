@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" alt="Status en desarrollo">
+   <img src="https://img.shields.io/badge/STATUS-%20STUDING-green" alt="Status en desarrollo">
 </p>
 
 <!--
