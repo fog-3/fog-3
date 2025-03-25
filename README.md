@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/fosuna-g?1337Badge=off&UM6P=off" height="200" alt="fosuna-g's 42 stats">
+  <img src="https://badge.mediaplus.ma/darkblue/fosuna-g?1337Badge=off&UM6P=off" height="230" alt="fosuna-g's 42 stats">
 </div>
 
 ###
