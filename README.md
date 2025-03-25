@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Coding enthusiast turning imaginative ideas into functional solutions.<br><br>- ☕ Turning caffeine into code since 2021.<br>- 📚 I'm currently studing in the 42 campus of Malaga and Computer Science in the University of Malaga.<br>- 🤝 Team player who loves colaborating.<br>- 🔍 In search of the biggest bug.</p>
+<p align="left">Coding enthusiast turning imaginative ideas into functional solutions.<br><br>- ☕ Turning caffeine into code since 2021.<br>- 📚 I'm currently studing in 42 campus of Malaga and Computer Science at the University of Malaga.<br>- 🤝 Team player who loves colaborating.<br>- 🔍 In search of the biggest bug.</p>
 
 </div>
 
@@ -64,6 +64,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> &nbsp;
+<a href="https://www.linkedin.com/in/fernando-osuna-granados-91a510353/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a> &nbsp;
+<a href="mailto:fog-03@hotmail.com?subject=Contacto desde tu GitHub">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</a>
 </div>
