@@ -1,17 +1,17 @@
 <h1 align="center">Hey there 👋! My name is Fernando</h1>
 
 ###
-
-<div>
-
-<div>
-  <img height="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529ajk4p9bu6win1q7bdfn08niyiecbai6jzlablhd&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"> 
-</div>
 <h2 align="left">👩‍💻  About Me</h2>
+
+<div>
+
+<div>
+  <img height="160" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529ajk4p9bu6win1q7bdfn08niyiecbai6jzlablhd&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"> 
+</div>
 
 ###
 
-<p align="left">Coding enthusiast turning imaginative ideas into functional solutions.<br><br>- ☕ Turning caffeine into code since 2021.<br>- 📚 I'm currently studing in the 42 campus of Malaga and Computer Science in the University of Malaga.<br>- 🤝 Team player who loves colaborating.</p>
+<p align="left">Coding enthusiast turning imaginative ideas into functional solutions.<br><br>- ☕ Turning caffeine into code since 2021.<br>- 📚 I'm currently studing in the 42 campus of Malaga and Computer Science in the University of Malaga.<br>- 🤝 Team player who loves colaborating.<br>- 🔍 In search of the biggest bug.</p>
 
 </div>
 
