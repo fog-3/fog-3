@@ -4,15 +4,14 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 <div>
-
-<div>
-  <img height="160" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529ajk4p9bu6win1q7bdfn08niyiecbai6jzlablhd&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"> 
-</div>
-
-###
-
-<p align="left">Coding enthusiast turning imaginative ideas into functional solutions.<br><br>- ☕ Turning caffeine into code since 2021.<br>- 📚 I'm currently studing in 42 campus of Malaga and Computer Science at the University of Malaga.<br>- 🤝 Team player who loves colaborating.<br>- 🔍 In search of the biggest bug.</p>
-
+  <img height="190" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9529ajk4p9bu6win1q7bdfn08niyiecbai6jzlablhd&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right">
+    <p align="left">
+      Coding enthusiast turning imaginative ideas into functional solutions.<br><br>
+      - ☕ Turning caffeine into code since 2021.<br>
+      - 📚 I'm currently studying at 42 Campus Málaga and Computer<br> Science at the University of Málaga.<br>
+      - 🤝 Team player who loves collaborating.<br>
+      - 🔍 In search of the biggest bug.
+    </p>
 </div>
 
 <br>
