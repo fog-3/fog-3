@@ -52,7 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-## 4️⃣2️⃣ Profile
+<!--
+## 4️⃣2️⃣ Profile 
 
 ###
 
@@ -61,6 +62,10 @@
 </div>
 
 ###
+-->
+
+<br>
+<br>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/fernando-osuna-granados-91a510353/">
